@@ -1,0 +1,89 @@
+D:\register\register backend app\register backend app\bin\register backend app.dll.config
+D:\register\register backend app\register backend app\bin\register backend app.dll
+D:\register\register backend app\register backend app\bin\register backend app.pdb
+D:\register\register backend app\register backend app\bin\roslyn\csc.exe
+D:\register\register backend app\register backend app\bin\roslyn\csc.exe.config
+D:\register\register backend app\register backend app\bin\roslyn\csc.rsp
+D:\register\register backend app\register backend app\bin\roslyn\csi.exe
+D:\register\register backend app\register backend app\bin\roslyn\csi.exe.config
+D:\register\register backend app\register backend app\bin\roslyn\csi.rsp
+D:\register\register backend app\register backend app\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\register\register backend app\register backend app\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\register\register backend app\register backend app\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\register\register backend app\register backend app\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\register\register backend app\register backend app\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\register\register backend app\register backend app\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\register\register backend app\register backend app\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\register\register backend app\register backend app\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\register\register backend app\register backend app\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\register\register backend app\register backend app\bin\roslyn\Microsoft.Managed.Core.targets
+D:\register\register backend app\register backend app\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\register\register backend app\register backend app\bin\roslyn\System.AppContext.dll
+D:\register\register backend app\register backend app\bin\roslyn\System.Collections.Immutable.dll
+D:\register\register backend app\register backend app\bin\roslyn\System.Console.dll
+D:\register\register backend app\register backend app\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\register\register backend app\register backend app\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\register\register backend app\register backend app\bin\roslyn\System.IO.Compression.dll
+D:\register\register backend app\register backend app\bin\roslyn\System.IO.FileSystem.dll
+D:\register\register backend app\register backend app\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\register\register backend app\register backend app\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\register\register backend app\register backend app\bin\roslyn\System.IO.Pipes.dll
+D:\register\register backend app\register backend app\bin\roslyn\System.Reflection.Metadata.dll
+D:\register\register backend app\register backend app\bin\roslyn\System.Security.AccessControl.dll
+D:\register\register backend app\register backend app\bin\roslyn\System.Security.Claims.dll
+D:\register\register backend app\register backend app\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\register\register backend app\register backend app\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\register\register backend app\register backend app\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\register\register backend app\register backend app\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\register\register backend app\register backend app\bin\roslyn\System.Security.Principal.Windows.dll
+D:\register\register backend app\register backend app\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\register\register backend app\register backend app\bin\roslyn\System.ValueTuple.dll
+D:\register\register backend app\register backend app\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\register\register backend app\register backend app\bin\roslyn\System.Xml.XmlDocument.dll
+D:\register\register backend app\register backend app\bin\roslyn\System.Xml.XPath.dll
+D:\register\register backend app\register backend app\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\register\register backend app\register backend app\bin\roslyn\vbc.exe
+D:\register\register backend app\register backend app\bin\roslyn\vbc.exe.config
+D:\register\register backend app\register backend app\bin\roslyn\vbc.rsp
+D:\register\register backend app\register backend app\bin\roslyn\VBCSCompiler.exe
+D:\register\register backend app\register backend app\bin\roslyn\VBCSCompiler.exe.config
+D:\register\register backend app\register backend app\bin\Antlr3.Runtime.dll
+D:\register\register backend app\register backend app\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\register\register backend app\register backend app\bin\Microsoft.Web.Infrastructure.dll
+D:\register\register backend app\register backend app\bin\Newtonsoft.Json.dll
+D:\register\register backend app\register backend app\bin\System.Net.Http.Formatting.dll
+D:\register\register backend app\register backend app\bin\System.Web.Helpers.dll
+D:\register\register backend app\register backend app\bin\System.Web.Http.dll
+D:\register\register backend app\register backend app\bin\System.Web.Http.WebHost.dll
+D:\register\register backend app\register backend app\bin\System.Web.Mvc.dll
+D:\register\register backend app\register backend app\bin\System.Web.Optimization.dll
+D:\register\register backend app\register backend app\bin\System.Web.Razor.dll
+D:\register\register backend app\register backend app\bin\System.Web.WebPages.Deployment.dll
+D:\register\register backend app\register backend app\bin\System.Web.WebPages.dll
+D:\register\register backend app\register backend app\bin\System.Web.WebPages.Razor.dll
+D:\register\register backend app\register backend app\bin\WebGrease.dll
+D:\register\register backend app\register backend app\bin\Newtonsoft.Json.xml
+D:\register\register backend app\register backend app\bin\System.Net.Http.Formatting.xml
+D:\register\register backend app\register backend app\bin\System.Web.Helpers.xml
+D:\register\register backend app\register backend app\bin\System.Web.Http.xml
+D:\register\register backend app\register backend app\bin\System.Web.Http.WebHost.xml
+D:\register\register backend app\register backend app\bin\System.Web.Mvc.xml
+D:\register\register backend app\register backend app\bin\System.Web.Optimization.xml
+D:\register\register backend app\register backend app\bin\System.Web.Razor.xml
+D:\register\register backend app\register backend app\bin\System.Web.WebPages.xml
+D:\register\register backend app\register backend app\bin\System.Web.WebPages.Deployment.xml
+D:\register\register backend app\register backend app\bin\System.Web.WebPages.Razor.xml
+D:\register\register backend app\register backend app\bin\Antlr3.Runtime.pdb
+D:\register\register backend app\register backend app\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\register\register backend app\register backend app\obj\Debug\register backend app.csprojAssemblyReference.cache
+D:\register\register backend app\register backend app\obj\Debug\register backend app.csproj.CoreCompileInputs.cache
+D:\register\register backend app\register backend app\obj\Debug\register backend app.csproj.CopyComplete
+D:\register\register backend app\register backend app\obj\Debug\register backend app.dll
+D:\register\register backend app\register backend app\obj\Debug\register backend app.pdb
+D:\register\register backend app\register backend app\bin\System.Web.Cors.dll
+D:\register\register backend app\register backend app\bin\System.Web.Http.Cors.dll
+D:\register\register backend app\register backend app\bin\System.Web.Http.Cors.xml
+D:\register\register backend app\register backend app\bin\EntityFramework.dll
+D:\register\register backend app\register backend app\bin\EntityFramework.SqlServer.dll
+D:\register\register backend app\register backend app\bin\EntityFramework.xml
+D:\register\register backend app\register backend app\bin\EntityFramework.SqlServer.xml
